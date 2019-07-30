@@ -740,3 +740,4 @@ You can:
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
 - Mahdi Harati from Iran 🇮🇷 ([Raika](https://github.com/Raika))
+- Majid Khosravi from Iran 🇮🇷 ([majid-khosravi](https://github.com/majid-khosravi))
